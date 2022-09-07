@@ -1,2 +1,2 @@
 #!/bin/bash
-unalias ls= 'rm *i'
+unalias ls="rm *i"
